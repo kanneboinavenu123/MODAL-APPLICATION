@@ -19,7 +19,7 @@ body{
 button{
     margin: 2rem;
     display: inline-block;
-    background-color: hotpink;
+    background-color: green;    //here changed the background color;
     color: white;
     padding: 1rem 2rem;
     border: none;
@@ -98,4 +98,5 @@ button:hover{
 .modal_content p{
     color: darkblue;
     line-height: 1.5;
+
 }
